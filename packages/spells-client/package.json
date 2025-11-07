@@ -1,6 +1,6 @@
 {
   "name": "@pricedb-io/spells",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "TypeScript SDK for the spells.pricedb.io TF2 Spell Price API",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
